@@ -1,2 +1,2 @@
-# ml-neural-network-random-forest
-Using Neural Network &amp; Random Forest to reconstruct images
+# ml-image-reconstruction
+Using Random Forest to reconstruct images
